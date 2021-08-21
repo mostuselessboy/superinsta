@@ -1,7 +1,7 @@
 # Superinsta 1.8 - Unofficial Insta Client
 This is a GUI based Instagram App-Client. Earlier it was known as Instagrade. Also the project might be very bugy because I wrote 12k+ lines of code within 1 months while my exams were going on also. Do not copy the  You can consider it just as a Instagram app for Windows. It supports regular instagram features like:
 
-IMPORTANT : PLEASE INSTALL THE 2 FONTS IN THE FONT FOLDER. ALSO THERE MIGHT BE SOME FONT SIZE/RESOLUTION ISSUES BECAUSE THE APP IS UNDER DEVOLOPMENT.
+# IMPORTANT : PLEASE INSTALL THE 2 FONTS IN THE FONT FOLDER. ALSO THERE MIGHT BE SOME FONT SIZE/RESOLUTION ISSUES BECAUSE THE APP IS UNDER DEVOLOPMENT. DO NOT COPY THE CODE WITHOUT MY PERMISSION
 - Login
 - Search
 - Like / Unlike
@@ -73,4 +73,4 @@ mostuselessboy@gmail.com
 Github:
 https://www.github.com/mostuselessboy
 
-If you want to help me or need source code for some educational purpose then ping me on any of the above social medias.
+If you want to help me or need some help then ping me on any of the my social medias.
