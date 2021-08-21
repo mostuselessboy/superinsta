@@ -1,5 +1,7 @@
 # Superinsta 1.8 - Unofficial Insta Client
 This is a GUI based Instagram App-Client. Earlier it was known as Instagrade. Also the project might be very bugy because I wrote 12k+ lines of code within 1 months while my exams were going on also. Do not copy the  You can consider it just as a Instagram app for Windows. It supports regular instagram features like:
+
+IMPORTANT : PLEASE INSTALL THE 2 FONTS IN THE FONT FOLDER. ALSO THERE MIGHT BE SOME FONT SIZE/RESOLUTION ISSUES BECAUSE THE APP IS UNDER DEVOLOPMENT.
 - Login
 - Search
 - Like / Unlike
@@ -27,6 +29,7 @@ This is a GUI based Instagram App-Client. Earlier it was known as Instagrade. Al
 - Mark **all stories as seen** with one button
 
 # Drawbacks
+- Resoultion bugs (In some PC's the font might be extremely big)
 - **DM** not supported
 - **Comments** not supported
 - You cannot **accept requests** if you have private account
