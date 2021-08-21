@@ -1,7 +1,10 @@
 # Superinsta 1.8 - Unofficial Insta Client
+
+# IMPORTANT : PLEASE INSTALL THE 2 FONTS IN THE FONT FOLDER. ALSO THERE MIGHT BE SOME FONT SIZE/RESOLUTION ISSUES BECAUSE THE APP IS UNDER DEVOLOPMENT. DO NOT COPY THE CODE WITHOUT MY PERMISSION.
+
 This is a GUI based Instagram App-Client. Earlier it was known as Instagrade. Also the project might be very bugy because I wrote 12k+ lines of code within 1 months while my exams were going on also. Do not copy the  You can consider it just as a Instagram app for Windows. It supports regular instagram features like:
 
-# IMPORTANT : PLEASE INSTALL THE 2 FONTS IN THE FONT FOLDER. ALSO THERE MIGHT BE SOME FONT SIZE/RESOLUTION ISSUES BECAUSE THE APP IS UNDER DEVOLOPMENT. DO NOT COPY THE CODE WITHOUT MY PERMISSION
+
 - Login
 - Search
 - Like / Unlike
@@ -18,7 +21,11 @@ This is a GUI based Instagram App-Client. Earlier it was known as Instagrade. Al
 ![3](https://user-images.githubusercontent.com/85026406/130319764-efe61063-739e-4049-aea6-66bc522bbc23.png)
 ![4](https://user-images.githubusercontent.com/85026406/130319767-c469a5f4-be8f-41d1-a0d5-4114e6a31805.png)
 
-
+# How To Run
+- Download all the files from my Repo
+- Install all the requirements from requirements.txt
+- Click on SuperInsta.py to run
+- (You can modify the code for educational purpose but do not use it for commercial purpose cause it uses pyqt5 for which you need to buy license and secondly i also dont want my code to be used without giving me any credits.)
 
 # Extra Features
 - **Copy Hashtags** from any post
